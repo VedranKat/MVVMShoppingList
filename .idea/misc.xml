@@ -5,6 +5,8 @@
       <map>
         <entry key="..\:/Users/Vedran/AndroidStudioProjects/MVVMShoppingList/app/src/main/res/layout/activity_main.xml" value="0.14130434782608695" />
         <entry key="..\:/Users/Vedran/AndroidStudioProjects/MVVMShoppingList/app/src/main/res/layout/activity_shopping.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/Vedran/AndroidStudioProjects/MVVMShoppingList/app/src/main/res/layout/dialog_add_shopping_item.xml" value="0.13858695652173914" />
+        <entry key="..\:/Users/Vedran/AndroidStudioProjects/MVVMShoppingList/app/src/main/res/layout/shopping_item.xml" value="0.13858695652173914" />
       </map>
     </option>
   </component>
